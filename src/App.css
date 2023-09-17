@@ -1,0 +1,28 @@
+* {
+  background-color: powderblue;
+}
+
+.cars {
+  color: red;
+}
+h1 {
+  background-color: bisque;
+  padding: 3px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  margin-bottom: 25px;
+}
+p {
+  color: black;
+  text-align: lefts;
+  font-size: 2rem;
+  padding-bottom: 100px;
+}
+img {
+  height: 250px;
+  width: 300px;
+  display: flex;
+}
+.footer {
+  color: black;
+  align-items: center;
+}
